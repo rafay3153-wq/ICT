@@ -1,0 +1,11 @@
+name = input("Enter your name: ")
+print('Hi', name)
+
+num=float(input("Enter a number: "))
+square=num*num
+print("The square is: ", square)
+
+base=float(input("Enter base of triangle: "))
+height=float(input("Enter height of triangle: "))
+area=0.5*base*height
+print("Area of triangle:", area)
